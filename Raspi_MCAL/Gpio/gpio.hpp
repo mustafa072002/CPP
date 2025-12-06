@@ -32,7 +32,6 @@ namespace MCAL::GPIO
         uint8_t pinNum_ = 0;
         std::unique_ptr<int> value_Fd_ = nullptr;
         std::unique_ptr<int> Dir_Fd_ = nullptr;
-
     public:
         // Delete Default Constructor User Must Pass Gpio Path
         GPIO() = delete;
@@ -45,7 +44,7 @@ namespace MCAL::GPIO
         /* Apply Rule Of 5 */
 
         // Copy Constructor
-        GPIO(const GPIO &obj);
+        GPIO(const GPIO &obj) = delete;
 
         // Move Constructor
         GPIO(GPIO &&obj);

@@ -194,6 +194,10 @@ namespace MCAL::GPIO
         write(unexportFd, pinStr.c_str(), pinStr.length());
         close(unexportFd);
     }
+
+    GPIO& GPIO::operator=(const GPIO &obj){
+        
+    }
 }
 
 // Implementations of GpioPin class methods would go here
