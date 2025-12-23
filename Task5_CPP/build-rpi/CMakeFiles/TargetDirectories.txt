@@ -1,0 +1,4 @@
+/home/mustafa/Embedded_ITI_9M/Fady/CPP/Task5_CPP/build-rpi/CMakeFiles/Classes.dir
+/home/mustafa/Embedded_ITI_9M/Fady/CPP/Task5_CPP/build-rpi/CMakeFiles/SevenSegment.dir
+/home/mustafa/Embedded_ITI_9M/Fady/CPP/Task5_CPP/build-rpi/CMakeFiles/edit_cache.dir
+/home/mustafa/Embedded_ITI_9M/Fady/CPP/Task5_CPP/build-rpi/CMakeFiles/rebuild_cache.dir

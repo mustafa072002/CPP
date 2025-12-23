@@ -1,0 +1,1 @@
+/home/mustafa/x-tools/aarch64-rpi3-linux-gnu/bin/aarch64-rpi3-linux-gnu-g++ -O3 -DNDEBUG CMakeFiles/SevenSegment.dir/App/Task5.cpp.o -o SevenSegment  -Wl,-rpath,/home/mustafa/Embedded_ITI_9M/Fady/CPP/Task5_CPP/build-rpi libClasses.so 

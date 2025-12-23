@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/SevenSeg.dir/src/dio.c.o CMakeFiles/SevenSeg.dir/src/main.c.o -o SevenSeg 

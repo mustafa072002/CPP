@@ -29,13 +29,8 @@ public:
 int main()
 {
 
-    pointer obj;
-    int num{11};
-    {
-        std::shared_ptr<int> p{new int(num)};
-        std::cout << p.use_count() << std::endl;
-        obj.setValue(p);
-    }
-    obj.print();
+    std::shared_ptr<int> sptr = std::make_shared<int>(42);
+    std::weak_ptr<int> wptr = sptr;
+    wptr.
     // while(1);
 }

@@ -1,0 +1,3 @@
+/home/mustafa/Embedded_ITI_9M/Fady/CPP/CMAKE_PROJ/build/CMakeFiles/SevenSeg.dir
+/home/mustafa/Embedded_ITI_9M/Fady/CPP/CMAKE_PROJ/build/CMakeFiles/edit_cache.dir
+/home/mustafa/Embedded_ITI_9M/Fady/CPP/CMAKE_PROJ/build/CMakeFiles/rebuild_cache.dir
